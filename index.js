@@ -42,17 +42,6 @@
 // }
 // console.log(minArr([4, 6, 2, 7]));
 
-// 4 - masala
-
-// alert ("barcha manfiy sonlarni musbatga aylantiring");
-//     function manfiy (arg){
-//     let m = -1;
-//     for (let i = 0; i <arg.length; i++)
-//         [] + m;
-//     }
-//     return [];
-// }
-// console.log([]);
 
 // 5 - masala
 
